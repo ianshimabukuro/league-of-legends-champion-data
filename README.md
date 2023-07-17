@@ -22,7 +22,10 @@ This Python script automates the extraction of champion statistics and images fr
    pip install selenium
    ```
 3. Download the Chrome WebDriver compatible with your Chrome browser version and operating system. Place the WebDriver executable in your system's PATH or the same directory as the script. WebDriver download link: https://sites.google.com/a/chromium.org/chromedriver/downloads
-4. Clone or download this repository to your local machine.
+4. Clone or download this repository to your local machine. You can clone this repository with the next command:
+   ```
+   git clone https://github.com/JonathanCruze/WebScraper-LoL-Champion-Stats.git
+   ```
 5. Open a terminal or command prompt and navigate to the project directory.
 6. Run the script using the following command:
    ```python
